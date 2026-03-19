@@ -22,6 +22,7 @@ Test your Python knowledge by answering riddles from a mystical serpent. Get the
 
 ## 🎯 How to Play
 
+0. Activate sound (Top right corner, **Highly recommended**) 
 1. Click **"Enter the Cave"** to start
 2. Answer each Python question carefully
 3. Get instant feedback with sound effects
