@@ -4,13 +4,13 @@
 
 Test your Python knowledge by answering riddles from a mystical serpent. Get them all right and escape the cave as a **Python Master**! 🏆
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://python-cave-quiz.streamlit.app/)
 
 ![Python Cave Screenshot](screenshot.png)
 
 ## 🎮 Play Now
 
-👉 **[Play The Python Cave](https://your-app-url.streamlit.app)**
+👉 **[Play The Python Cave][https://your-app-url.streamlit.app](https://python-cave-quiz.streamlit.app/)**
 
 ## ✨ Features
 
