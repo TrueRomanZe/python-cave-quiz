@@ -115,14 +115,14 @@ The complete source code of this app is available on GitHub. You can:
 - Verify what data is collected
 - See exactly how Google Analytics is configured
 
-**Repository**: [github.com/your-username/python-cave-quiz](https://github.com/your-username/python-cave-quiz)
+**Repository**: [github.com/TrueRomanZe/python-cave-quiz](https://github.com/TrueRomanZe/python-cave-quiz)
 
 ## Contact
 
 Questions about privacy? Contact:
 
-**Email**: your-email@example.com  
-**GitHub**: [github.com/your-username](https://github.com/your-username)
+**Email**: s.romera92@gmail.com
+**GitHub**: [github.com/TrueRomanZe](https://github.com/TrueRomanZe)
 
 We will respond to privacy inquiries within 48 hours.
 
