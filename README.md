@@ -41,19 +41,21 @@ Test your Python knowledge by answering riddles from a mystical serpent. Get the
 
 ```
 python-cave-quiz/
-├── app.py                 # Main application
-├── requirements.txt       # Python dependencies
 ├── .streamlit/
 │   └── config.toml       # Streamlit configuration
+├── .gitignore
+├── app.py                 # Main application
 ├── assets/
 │   ├── background_music.mp3
 │   ├── success.mp3
 │   ├── gameover.mp3
 │   └── final_victory.mp3
-├── README.md
-├── PRIVACY.md
 ├── CREDITS.md
-└── LICENSE
+├── LICENSE
+├── PRIVACY.md
+├── README.md
+├── requirements.txt       # Python dependencies
+└── screenshot.png
 ```
 
 ## 🚀 Run Locally
