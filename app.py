@@ -22,7 +22,7 @@ st.set_page_config(
 # ============================================================================
 
 # Reemplaza 'G-XXXXXXXXXX' con tu ID de Google Analytics
-GOOGLE_ANALYTICS_ID = "G-XXXXXXXXXX"
+GOOGLE_ANALYTICS_ID = "G-RSGTNL6FWR"
 
 st.markdown(f"""
 <!-- Google tag (gtag.js) -->
